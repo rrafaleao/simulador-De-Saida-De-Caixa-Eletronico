@@ -1,0 +1,1 @@
+# simulador-De-Saida-De-Caixa-Eletronico
